@@ -1,0 +1,9 @@
+.codigo{
+    position: absolute;
+    z-index: 0;
+    top: 11em;
+}
+
+.CodeMirror{
+    max-width: 100vw;
+}

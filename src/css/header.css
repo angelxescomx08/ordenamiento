@@ -1,0 +1,49 @@
+.header {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background: #222831;
+}
+
+.algoritmos {
+    background: #008CBA;
+    margin: 0.5em;
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.slider-div {
+    display: flex;
+    justify-content: center;
+}
+
+.slider {
+    margin: 1em;
+}
+
+.button {
+    background: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0.5em 1em;
+}
+
+.button:hover{
+    background: #BD1616;
+}
+
+.cantidad{
+    color: #ffffff;
+}
